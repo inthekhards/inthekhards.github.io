@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: K. Harding's E-Portfolio
 ---
 
