@@ -8,7 +8,7 @@ Reflection on Team Project
 Individual Contribution
 --
 
-
+```
 **Data Analysis Comparing room_type and price from AB_NYC_2019**
 
 # Cleaning up dataset
@@ -113,3 +113,4 @@ plt.title('KMeans Clustering of Prices by room_type')
 plt.xlabel('Price')
 plt.ylabel('room_type')
 plt.show()
+```
