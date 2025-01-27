@@ -7,7 +7,7 @@ Our group decided to analyze 5 different factors on what influences AirBnB profi
 
 We combined our individual contributions for the final code and paper for submission. We had bi-weekly meetings and more frequent meetings near the end of the project to make sure we were on track. 
 
-Link to Jupyter Notebook: https://github.com/inthekhards/inthekhards.github.io/blob/main/docs/Group_1_Analysis_of_Room_Type_Vs_Price.ipynb 
+Link to code: [Room Type vs. Price](https://github.com/inthekhards/inthekhards.github.io/blob/main/docs/Group_1_Analysis_of_Room_Type_Vs_Price.ipynb) 
 
 
 My Individual Contribution (code section)
