@@ -12,7 +12,7 @@ My Individual Contribution (code section)
 --
 
 ```
-**Data Analysis Comparing room_type and price from AB_NYC_2019**
+Data Analysis Comparing room_type and price from AB_NYC_2019
 
 # Cleaning up dataset
 
