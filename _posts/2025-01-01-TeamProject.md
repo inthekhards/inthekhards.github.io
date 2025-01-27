@@ -3,7 +3,7 @@ title: Group Project
 ---
 Initial Proposal For Team Project
 --
-Our group decided to analyze 5 different factors on what influences AirBnB profits in NYC. We compared price, location, room type, neighbourhoods, boroughs, and so on from the labels in the dataset. 
+Our group decided to analyze 5 different factors on what influences AirBnB profits in NYC. This would allow managers or investors to see what customers were looking for, and which AirBnBs were making the most money and had the most bookings. We compared price, location, room type, neighbourhoods, boroughs, and so on from the labels in the dataset. 
 
 We combined our individual contributions for the final code and paper for submission. We had bi-weekly meetings and more frequent meetings near the end of the project to make sure we were on track. 
 
