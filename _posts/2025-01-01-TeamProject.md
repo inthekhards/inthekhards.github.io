@@ -14,8 +14,11 @@ Made with Google colab, Unit 2 tutorial code, AB_NYC_2019 dataset, assistance of
 References:
 
 Dgomonov (2019) New York City Airbnb Open Data, www.kaggle.com. Available at: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data.
+
 Google (2024) ‎Gemini - Chat to Supercharge Your Ideas, gemini.google.com. Available at: https://gemini.google.com/.
+
 OpenAI (2025) ChatGPT, ChatGPT. OpenAI. Available at: https://chatgpt.com/.
+
 Tensorflow Authors (2018) Google Colaboratory, colab.research.google.com. Available at: https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb.
 
 My Individual Contribution (code section)
