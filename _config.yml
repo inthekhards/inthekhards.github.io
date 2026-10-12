@@ -2,3 +2,8 @@ theme: minima
 title: MSc in Artificial Intelligence E-Portfolio 
 author: inthekhards
 description: University of Essex - MSc in AI E-Portfolio 
+
+# Pages shown in the top navigation bar
+header_pages:
+  - machine-learning.md
+  - intelligent-agents.md
