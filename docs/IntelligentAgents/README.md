@@ -1,1 +1,1 @@
-Upload Intelligent Agents files (images, notebooks, PDFs) here.
+Upload Intelligence Agents files (images, notebooks, PDFs) here.
