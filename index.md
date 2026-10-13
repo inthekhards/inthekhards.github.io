@@ -2,9 +2,9 @@
 layout: page
 title: K. Harding's E-Portfolio
 ---
+Welcome to my e-portfolio for the University of Essex MSc in Artificial Intelligence.
 
-Welcome to my e-portfolio for the University of Essex MSc in Artificial Intelligence. Work is organised by module:
-
+<!--
 ## [Machine Learning](machine-learning.html)
 
 {% assign ml_posts = site.posts | where_exp: "post", "post.course == nil" %}
@@ -13,6 +13,7 @@ Welcome to my e-portfolio for the University of Essex MSc in Artificial Intellig
   <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+-->
 
 ## [Intelligent Agents](intelligent-agents.html)
 
