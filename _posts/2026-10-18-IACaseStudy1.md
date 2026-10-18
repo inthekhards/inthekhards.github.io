@@ -12,7 +12,7 @@ I did not want to make my application reliant on connections and APIs as a safet
 
 ![RunControl class in control.py with the stop, pause and resume methods](/docs/IntelligentAgents/casestudy1-control.png)
 
-The code can be found here: https://inthekhards.github.io/2026/10/13/IAUnit11.html 
+The code can be found here: [Unit 11: Academic Research Tool](/2026/10/13/IAUnit11.html)
 
 ### References
 
