@@ -12,6 +12,8 @@ I did not want to make my application reliant on connections and APIs as a safet
 
 ![RunControl class in control.py with the stop, pause and resume methods](/docs/IntelligentAgents/casestudy1-control.png)
 
+The code can be found here: https://inthekhards.github.io/2026/10/13/IAUnit11.html 
+
 ### References
 
 Clark, B. (2026) *AI agent security best practices guide*. Available at: <https://www.ibm.com/think/tutorials/ai-agent-security> (Accessed: 18 October 2026).
