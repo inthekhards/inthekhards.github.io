@@ -15,7 +15,7 @@ Welcome to my e-portfolio for the University of Essex MSc in Artificial Intellig
 </ul>
 -->
 
-## [Intelligence Agents](intelligent-agents.html)
+## [Intelligent Agents](intelligent-agents.html)
 
 {% assign ia_posts = site.posts | where: "course", "intelligent-agents" %}
 {% if ia_posts.size > 0 %}

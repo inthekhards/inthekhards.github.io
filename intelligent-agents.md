@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Intelligence Agents
+title: Intelligent Agents
 permalink: /intelligent-agents.html
 ---
 
-Overview of content from the Intelligence Agents module.
+Overview of content from the Intelligent Agents module.
 
 {% assign ia_posts = site.posts | where: "course", "intelligent-agents" %}
 {% if ia_posts.size > 0 %}
