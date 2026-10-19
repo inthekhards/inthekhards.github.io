@@ -2,6 +2,7 @@ theme: minima
 title: MSc in Artificial Intelligence E-Portfolio 
 author: inthekhards
 description: University of Essex - MSc in AI E-Portfolio 
+github_username: inthekhards
 
 # Pages shown in the top navigation bar
 header_pages:
