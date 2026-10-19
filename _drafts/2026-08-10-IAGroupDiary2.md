@@ -1,7 +1,0 @@
----
-title: "Group Work Diary Entry #2"
-course: intelligent-agents
----
-## Second Team Meeting
-
-My team and I met on August 9, again having coordination and communication issues getting everyone organised. We talked about the design and implementation of a multi-agent system with four agents including: planning, retrieval, processing, and storage agents. We also talked about using multiple LLM models for different agents. Each agent could be using a different LLM model to power its decision making. The retrieval agent would be the one making API calls to sources like OpenAlex or SAVI. We also talked about using Microsoft Azure and Hugging Face, but I preferred to use Ollama and local LLMs, not cloud LLMs for my preference. I did not want to add extra variables of cloud and API keys just for my application to not work when submitting it to the professor to use, so I wanted to make it as easy as possible for a user to install and use themselves. The data that the AIs write down would be in a json file, which gets converted to markdown for the user to view after the research is done. One team member proposed keeping everything agnostic in the design, which I agreed to. I proposed how to split up the work in how we are writing the proposal. I said that everyone can write their equal sections of word count for 1000 words, so 250 words each. I would be writing the introduction. We put all our thoughts during this meeting in the brainstorming document.
