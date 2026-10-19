@@ -16,3 +16,7 @@ Overview of content from the Intelligence Agents module.
 {% else %}
 _Projects coming soon._
 {% endif %}
+
+## Group Work Diary
+
+My diary of our Group C team meetings for the design proposal: [Group Work Diary (Word document)](/docs/IntelligentAgents/Group-Work-Diary.docx)
